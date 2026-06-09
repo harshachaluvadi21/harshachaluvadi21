@@ -78,16 +78,7 @@ I'm a Computer Science student at Anurag University, Hyderabad, passionate about
 - 📜 OOPs Concepts in Python — CodeChef
 - 📜 ServiceNow Micro Certification — SmartBridge (AICTE)
 
----
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshachaluvadi21&show_icons=true&hide_border=true&theme=default&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachaluvadi21&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
----
 
 ### 📬 Connect with me
 
