@@ -62,7 +62,7 @@ I'm a Computer Science student at Anurag University, Hyderabad, passionate about
 | [CinemaStudio](https://github.com/harshachaluvadi21/CinemaStudio) | Privacy-first offline AI screenwriting suite — generate scripts, character arcs, and dialogue using local LLMs with zero cloud dependency | Flask · Ollama · Python · Vanilla JS | ✅ Completed |
 | [Bank RAG](https://github.com/harshachaluvadi21/Bank_Rag) | RAG-powered banking Q&A system — semantic search over financial documents using vector embeddings | Python · ChromaDB · Gemini · FastAPI | ✅ Completed |
 | [SmartDrive](https://github.com/harshachaluvadi21/smart_drive) | AI co-pilot for safer driving — real-time drowsiness detection, Groq voice assistant, GPS-based SMS alerts, hands-free interface | Flutter · ML Kit · Groq (Llama 3.3) · OpenStreetMap | ✅ Completed |
-| [Rent Loop](https://harshaportfolio-brown.vercel.app/) | Scalable P2P rental platform — JWT auth, role-based access, QR-based verification, deployed on Vercel + Render | React · Spring Boot · PostgreSQL | ✅ Live |
+| [Rent Loop](https://github.com/harshachaluvadi21/rentloop_frontend) | Scalable P2P rental platform — JWT auth, role-based access, QR-based verification, deployed on Vercel + Render | React · Spring Boot · PostgreSQL | ✅ Live |
 | [Face Recognition Attendance](https://github.com/harshachaluvadi21/Aifacial-attendance) | AI attendance system with 95% accuracy — KNN classification, real-time face detection, 25% reduction in false positives | Python · OpenCV · KNN · Streamlit · SQLite | ✅ Completed |
 
 ---
