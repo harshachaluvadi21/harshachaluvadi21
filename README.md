@@ -34,7 +34,7 @@ I'm a Computer Science undergraduate passionate about Generative AI, RAG systems
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Kurukshetra AI](https://github.com/harshachaluvadi21/Kurukshetra_AI)** | Multi-agent startup validation platform. Five LangGraph agents (Strategy, Intelligence, Opponent, Treasury, Critic) with hybrid RAG retrieval, live web research and citation ranking, a 3-tier Gemini/Groq LLM fallback router, and real-time WebSocket streaming | LangGraph · LangChain · FastAPI · Next.js · PostgreSQL · ChromaDB |
+| **[Kurukshetra AI](https://github.com/harshachaluvadi21/Kurukshetra_AI)** 🟢 Live | Multi-agent startup validation platform. Five LangGraph agents (Strategy, Intelligence, Opponent, Treasury, Critic) with hybrid RAG retrieval, live web research and citation ranking, a 3-tier Gemini/Groq LLM fallback router, and real-time WebSocket streaming | LangGraph · LangChain · FastAPI · Next.js · PostgreSQL · ChromaDB |
 | **[Rent Loop](https://github.com/harshachaluvadi21/rentloop_frontend)** 🟢 Live | Full-stack P2P rental platform with JWT auth, role-based access (renter/owner), full booking lifecycle, and QR-code verification. Deployed on Vercel + Render | React · Spring Boot · MongoDB |
 | **[Smart Helmet](#-achievements)** 🥇 | Android app for an IoT rider-safety system. Uses Bluetooth sensor data and threshold-based crash detection to trigger automated emergency alerts | Android · Bluetooth · IoT |
 
